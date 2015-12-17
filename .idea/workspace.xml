@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd2583b5-36c1-4b11-8695-e2c44b956860" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cssxfire.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="planificador-true.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +42,8 @@
       <file leaf-file-name="listadoDeTareas.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/listadoDeTareas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52030736">
-              <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.4473684">
+              <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -52,20 +54,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="274" column="5" selection-start-line="274" selection-start-column="5" selection-end-line="274" selection-end-column="5" />
-              <folding>
-                <marker date="1450240854801" expanded="true" signature="928:1045" placeholder="INSERT INTO tarea... " />
-                <marker date="1450240854801" expanded="true" signature="2654:2810" placeholder="UPDATE tarea... " />
-                <marker date="1450240854801" expanded="true" signature="4089:4177" placeholder="UPDATE tarea... " />
-                <marker date="1450240854801" expanded="true" signature="4721:4928" placeholder="SELECT tra_i... tarea" />
-                <marker date="1450240854801" expanded="true" signature="5402:5535" placeholder="SELECT tra_i... tarea" />
-                <marker date="1450240854801" expanded="true" signature="6018:6095" placeholder="SELECT tra_d... tarea" />
-                <marker date="1450240854801" expanded="true" signature="6636:6913" placeholder="SELECT usr_i... tarea" />
-                <marker date="1450240854801" expanded="true" signature="7445:7521" placeholder="SELECT tra_d... tarea" />
-                <marker date="1450240854801" expanded="true" signature="7956:7987" placeholder="UPDATE tarea... " />
-                <marker date="1450240854801" expanded="true" signature="8392:8487" placeholder="UPDATE tarea... " />
-                <marker date="1450240854801" expanded="true" signature="9238:9293" placeholder="UPDATE usuar... " />
-                <marker date="1450240854801" expanded="true" signature="9238:9330" placeholder="UPDATE tarea... " />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,20 +104,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
-              <folding>
-                <marker date="1450236437196" expanded="true" signature="552:715" placeholder="INSERT INTO usuarios... " />
-                <marker date="1450236437196" expanded="true" signature="1554:1622" placeholder="SELECT usr_e... usuarios" />
-                <marker date="1450236437196" expanded="true" signature="2045:2107" placeholder="SELECT usr_i... usuarios" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/146a39b5-498c-41e2-9f3a-b54e8492d8dc/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -165,8 +140,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -193,6 +168,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,14 +184,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="planificador-final" />
+              <option name="myItemId" value="planificador-final-2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,27 +240,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14392324" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14351144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32780084" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17324094" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17251909" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Plugins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3340249" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -316,20 +295,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="274" column="5" selection-start-line="274" selection-start-column="5" selection-end-line="274" selection-end-column="5" />
-          <folding>
-            <marker date="1450240854801" expanded="true" signature="928:1045" placeholder="INSERT INTO tarea... " />
-            <marker date="1450240854801" expanded="true" signature="2654:2810" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="4089:4177" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="4721:4928" placeholder="SELECT tra_i... tarea" />
-            <marker date="1450240854801" expanded="true" signature="5402:5535" placeholder="SELECT tra_i... tarea" />
-            <marker date="1450240854801" expanded="true" signature="6018:6095" placeholder="SELECT tra_d... tarea" />
-            <marker date="1450240854801" expanded="true" signature="6636:6913" placeholder="SELECT usr_i... tarea" />
-            <marker date="1450240854801" expanded="true" signature="7445:7521" placeholder="SELECT tra_d... tarea" />
-            <marker date="1450240854801" expanded="true" signature="7956:7987" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="8392:8487" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="9238:9293" placeholder="UPDATE usuar... " />
-            <marker date="1450240854801" expanded="true" signature="9238:9330" placeholder="UPDATE tarea... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -369,18 +335,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
-          <folding>
-            <marker date="1450236437196" expanded="true" signature="552:715" placeholder="INSERT INTO usuarios... " />
-            <marker date="1450236437196" expanded="true" signature="1554:1622" placeholder="SELECT usr_e... usuarios" />
-            <marker date="1450236437196" expanded="true" signature="2045:2107" placeholder="SELECT usr_i... usuarios" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/146a39b5-498c-41e2-9f3a-b54e8492d8dc/console.sql">
+    <entry file="file://$PROJECT_DIR$/listadoDeTareas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="19" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Planificador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="274" column="5" selection-start-line="274" selection-start-column="5" selection-end-line="274" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/confirmar_tarea.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista_de_usuarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compartir_usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editar_tarea.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -397,20 +407,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1450240854801" expanded="true" signature="928:1045" placeholder="INSERT INTO tarea... " />
-            <marker date="1450240854801" expanded="true" signature="2654:2810" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="4089:4177" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="4721:4928" placeholder="SELECT tra_i... tarea" />
-            <marker date="1450240854801" expanded="true" signature="5402:5535" placeholder="SELECT tra_i... tarea" />
-            <marker date="1450240854801" expanded="true" signature="6018:6095" placeholder="SELECT tra_d... tarea" />
-            <marker date="1450240854801" expanded="true" signature="6636:6913" placeholder="SELECT usr_i... tarea" />
-            <marker date="1450240854801" expanded="true" signature="7445:7521" placeholder="SELECT tra_d... tarea" />
-            <marker date="1450240854801" expanded="true" signature="7956:7987" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="8392:8487" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="9238:9293" placeholder="UPDATE usuar... " />
-            <marker date="1450240854801" expanded="true" signature="9238:9330" placeholder="UPDATE tarea... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -450,18 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
-          <folding>
-            <marker date="1450236437196" expanded="true" signature="552:715" placeholder="INSERT INTO usuarios... " />
-            <marker date="1450236437196" expanded="true" signature="1554:1622" placeholder="SELECT usr_e... usuarios" />
-            <marker date="1450236437196" expanded="true" signature="2045:2107" placeholder="SELECT usr_i... usuarios" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/146a39b5-498c-41e2-9f3a-b54e8492d8dc/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -508,14 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/146a39b5-498c-41e2-9f3a-b54e8492d8dc/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/editar_tarea.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -528,11 +505,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
-          <folding>
-            <marker date="1450236437196" expanded="true" signature="552:715" placeholder="INSERT INTO usuarios... " />
-            <marker date="1450236437196" expanded="true" signature="1554:1622" placeholder="SELECT usr_e... usuarios" />
-            <marker date="1450236437196" expanded="true" signature="2045:2107" placeholder="SELECT usr_i... usuarios" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -564,27 +537,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="274" column="5" selection-start-line="274" selection-start-column="5" selection-end-line="274" selection-end-column="5" />
-          <folding>
-            <marker date="1450240854801" expanded="true" signature="928:1045" placeholder="INSERT INTO tarea... " />
-            <marker date="1450240854801" expanded="true" signature="2654:2810" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="4089:4177" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="4721:4928" placeholder="SELECT tra_i... tarea" />
-            <marker date="1450240854801" expanded="true" signature="5402:5535" placeholder="SELECT tra_i... tarea" />
-            <marker date="1450240854801" expanded="true" signature="6018:6095" placeholder="SELECT tra_d... tarea" />
-            <marker date="1450240854801" expanded="true" signature="6636:6913" placeholder="SELECT usr_i... tarea" />
-            <marker date="1450240854801" expanded="true" signature="7445:7521" placeholder="SELECT tra_d... tarea" />
-            <marker date="1450240854801" expanded="true" signature="7956:7987" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="8392:8487" placeholder="UPDATE tarea... " />
-            <marker date="1450240854801" expanded="true" signature="9238:9293" placeholder="UPDATE usuar... " />
-            <marker date="1450240854801" expanded="true" signature="9238:9330" placeholder="UPDATE tarea... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/listadoDeTareas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52030736">
-          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.4473684">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
           <folding />
         </state>
       </provider>
